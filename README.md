@@ -4,6 +4,18 @@
 
 Many of the Microsoft Power Platform tools are built out in the open on GitHub.  This is the official repository for referencing all the other Power Platform related repos.
 
+#### Power Fx
+
+<https://github.com/microsoft/Power-Fx>
+
+#### Power Platform VSCode Extension
+
+<https://github.com/microsoft/powerplatform-vscode>
+
+#### Power Apps Test Engine
+
+<https://github.com/microsoft/PowerApps-TestEngine>
+
 #### Power Platform Azure DevOps Build Tools for Azure DevOps
 
 <https://github.com/microsoft/powerplatform-build-tools>
@@ -16,10 +28,6 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 
 <https://github.com/microsoft/PowerApps-Tooling>
 
-#### Power Platform VSCode Extension
-
-<https://github.com/microsoft/powerplatform-vscode>
-
 #### PowerPlatform.Dataverse.Client and supporting nuget packages
 
 <https://github.com/microsoft/PowerPlatform-DataverseServiceClient>
@@ -28,10 +36,6 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 
 <https://github.com/microsoft/PowerPlatform-DataverseModelBuilder>
 
-#### Power Fx
-
-<https://github.com/microsoft/Power-Fx>
-
-Power Apps Samples - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder
+#### Power Apps Samples - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder
 
 <https://github.com/microsoft/PowerApps-Samples>
