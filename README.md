@@ -1,4 +1,4 @@
-# Microsoft Power Platform
+# <img src="assets/images/PowerPlatform_scalable.svg" align="left" width="75"/> Microsoft Power Platform
 
 [Microsoft Power Platform](https://learn.microsoft.com/power-platform/developer/get-started) is a low-code platform for rapidly building customized end-to-end business solutions. It consists of five product areas: Power Apps, Power Automate, Power BI, and Power Pages. Each area can be used individually or together. United by the underlying Microsoft Dataverse technology, all areas are designed for a connected experience to achieve your business goals, whether it's creating analytics, process automation, or data-driven productivity applications.
 
@@ -31,7 +31,7 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 
 <https://github.com/microsoft/PowerApps-Tooling>
 
-#### PowerPlatform.Dataverse.Client and supporting nuget packages
+#### Power Platform Dataverse ServiceClient and supporting nuget packages
 
 <https://github.com/microsoft/PowerPlatform-DataverseServiceClient>
 
