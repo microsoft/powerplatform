@@ -2,7 +2,10 @@
 
 [Microsoft Power Platform](https://learn.microsoft.com/power-platform/developer/get-started) is a low-code platform for rapidly building customized end-to-end business solutions. It consists of five product areas: Power Apps, Power Automate, Power BI, and Power Pages. Each area can be used individually or together. United by the underlying Microsoft Dataverse technology, all areas are designed for a connected experience to achieve your business goals, whether it's creating analytics, process automation, or data-driven productivity applications.
 
-Many of the Microsoft Power Platform tools are built out in the open on GitHub.  This is the official repository for referencing all the other Power Platform related repos.
+Many of the Microsoft Power Platform tools are built out in the open on GitHub.  This repository serves as an index for referencing all the other Power Platform related repos.  
+
+> [!IMPORTANT]
+> Please file issues and start discussions within the respective repos below.
 
 #### Power Fx
 
