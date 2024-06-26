@@ -19,7 +19,7 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 
 <https://github.com/microsoft/PowerApps-TestEngine>
 
-#### Power Platform Azure DevOps Build Tools for Azure DevOps
+#### Power Platform Build Tools for Azure DevOps
 
 <https://github.com/microsoft/powerplatform-build-tools>
 
