@@ -42,3 +42,7 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 #### Power Apps Samples - Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder
 
 <https://github.com/microsoft/PowerApps-Samples>
+
+#### Power Platform Advocates
+
+<https://github.com/microsoft/PowerPlatformAdvocates>
