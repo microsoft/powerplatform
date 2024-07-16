@@ -27,6 +27,10 @@ Many of the Microsoft Power Platform tools are built out in the open on GitHub. 
 
 <https://github.com/microsoft/powerplatform-actions>
 
+#### Power Platform CLI Wrapper
+
+<https://github.com/microsoft/powerplatform-cli-wrapper>
+
 #### Power Apps Tools (YAML) - Tooling support for PowerApps language and .msapp files
 
 <https://github.com/microsoft/PowerApps-Tooling>
